@@ -3,6 +3,6 @@
 ## Ход работы
 ...
 Скриншоты выполненной работы
-
-!(https://imgur.com/a/q0zNeqM "Орк")
+![repo](https://i.ibb.co/bFFS4Yn/screen1.png "репозиторий")
 ...
+
