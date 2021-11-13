@@ -4,5 +4,5 @@
 ...
 Скриншоты выполненной работы
 
-![Alt-текст](https://imgur.com/a/q0zNeqM "Орк")
+!(https://imgur.com/a/q0zNeqM "Орк")
 ...
