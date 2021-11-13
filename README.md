@@ -4,5 +4,5 @@
 ```
 Скриншоты выполненной работы
 ```
-![repo](https://i.ibb.co/bFFS4Yn/screen1.png "Орк")
-![text](https://i.ibb.co/60Lm2PW/screen2.png "Орк")
+![repo](https://i.ibb.co/qmLxSCz/screen1.png "Орк")
+![text](https://i.ibb.co/42jSHSY/screen2.png "Орк")
